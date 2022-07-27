@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/onlinemarketing/static/css/main.7284d687.css",
-    "main.js": "/onlinemarketing/static/js/main.7f3e691a.js",
+    "main.js": "/onlinemarketing/static/js/main.49172b47.js",
     "static/media/2568d177.jpg": "/onlinemarketing/static/media/2568d177.8acd4e77608ec12d533b.jpg",
     "static/media/bg.jpg": "/onlinemarketing/static/media/bg.8acd4e77608ec12d533b.jpg",
     "static/media/awrapper.webp": "/onlinemarketing/static/media/awrapper.93ff90920ba16ed3766d.webp",
     "index.html": "/onlinemarketing/index.html",
     "main.7284d687.css.map": "/onlinemarketing/static/css/main.7284d687.css.map",
-    "main.7f3e691a.js.map": "/onlinemarketing/static/js/main.7f3e691a.js.map"
+    "main.49172b47.js.map": "/onlinemarketing/static/js/main.49172b47.js.map"
   },
   "entrypoints": [
     "static/css/main.7284d687.css",
-    "static/js/main.7f3e691a.js"
+    "static/js/main.49172b47.js"
   ]
 }
