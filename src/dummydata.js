@@ -208,13 +208,13 @@ export const online = [
   },
 
   {
-    cover: "./onlinemarketing/images/courses/online/o8.png",
+    cover: "/onlinemarketing/images/courses/online/o8.png",
     hoverCover: "./onlinemarketing/images/courses/online/o8.1.png",
     courseName: "Marketing",
     course: "30 Topics",
   },
   {
-    cover: "./onlinemarketing/images/courses/online/o9.png",
+    cover: "/onlinemarketing/images/courses/online/o9.png",
     hoverCover: "./onlinemarketing/images/courses/online/o9.1.png",
     courseName: "Digital Design",
     course: "3 Topics",
@@ -234,42 +234,42 @@ export const online = [
 ]
 export const team = [
   {
-    cover: "./onlinemarketing/images/team/t1.webp",
+    cover: "/onlinemarketing/images/team/t1.webp",
     name: "Thunder",
     work: "NFT Community Manager",
   },
   {
-    cover: "./onlinemarketing/images/team/t2.webp",
+    cover: "/onlinemarketing/images/team/t2.webp",
     name: "Ph.D Phil Hansburger",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./onlinemarketing/images/team/t3.webp",
+    cover: "/onlinemarketing/images/team/t3.webp",
     name: "Ph.D Kate Poland",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./onlinemarketing/images/team/t4.webp",
+    cover: "/onlinemarketing/images/team/t4.webp",
     name: "Ph.D Brian Kent",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./onlinemarketing/images/team/t5.webp",
+    cover: "/onlinemarketing/images/team/t5.webp",
     name: "Ph.D Adrian Molises",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./onlinemarketing/images/team/t6.webp",
+    cover: "/onlinemarketing/images/team/t6.webp",
     name: "Ph.D Anthony Jenkins",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./onlinemarketing/images/team/t7.webp",
+    cover: "/onlinemarketing/images/team/t7.webp",
     name: "Ph.D Anna Cullen",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "./onlinemarketing/images/team/t8.webp",
+    cover: "/onlinemarketing/images/team/t8.webp",
     name: "Ph.D Carl Shaw",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
@@ -344,7 +344,7 @@ export const blog = [
     com: "10 COMMENTS ",
     title: "Advanced SEO tips for beginners",
     desc: "10 tips on what you must do as a business owner if you want to captivate your audience's attention.",
-    cover: "../onlinemarketing/images/blog/b3.webp",
+    cover: "/onlinemarketing/images/blog/b3.webp",
   },
   {
     id: 4,
@@ -362,7 +362,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "How to create real value from social media promotions",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../onlinemarketing/images/blog/b5.webp",
+    cover: "/onlinemarketing/images/blog/b5.webp",
   },
   {
     id: 6,
