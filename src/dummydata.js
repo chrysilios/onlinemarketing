@@ -187,7 +187,7 @@ export const coursesCard = [
 ]
 export const online = [
   {
-    cover: "/onlinemarketing/images/courses/online/o1.png",
+    cover: "onlinemarketing/images/courses/online/o1.png",
     hoverCover: "onlinemarketing/images/courses/online/o1.1.png",
     courseName: "Presentation",
     course: "1 Topic",
@@ -208,25 +208,25 @@ export const online = [
   },
 
   {
-    cover: "/onlinemarketing/images/courses/online/o8.png",
+    cover: "./onlinemarketing/images/courses/online/o8.png",
     hoverCover: "./onlinemarketing/images/courses/online/o8.1.png",
     courseName: "Marketing",
     course: "30 Topics",
   },
   {
-    cover: "/onlinemarketing/images/courses/online/o9.png",
+    cover: "./onlinemarketing/images/courses/online/o9.png",
     hoverCover: "./onlinemarketing/images/courses/online/o9.1.png",
     courseName: "Digital Design",
     course: "3 Topics",
   },
   {
-    cover: "/onlinemarketing/images/courses/online/o10.png",
+    cover: "./onlinemarketing/images/courses/online/o10.png",
     hoverCover: "./onlinemarketing/images/courses/online/o10.1.png",
     courseName: "Music & Social Media",
     course: "2 Topics",
   },
   {
-    cover: "/onlinemarketing/images/courses/online/o12.png",
+    cover: "./onlinemarketing/images/courses/online/o12.png",
     hoverCover: "./onlinemarketing/images/courses/online/o12.1.png",
     courseName: "Global Reach Development",
     course: "17 Topics",
@@ -234,12 +234,12 @@ export const online = [
 ]
 export const team = [
   {
-    cover: "/onlinemarketing/images/team/t1.webp",
+    cover: "./onlinemarketing/images/team/t1.webp",
     name: "Thunder",
     work: "NFT Community Manager",
   },
   {
-    cover: "/onlinemarketing/images/team/t2.webp",
+    cover: "./onlinemarketing/images/team/t2.webp",
     name: "Ph.D Phil Hansburger",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
@@ -249,27 +249,27 @@ export const team = [
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "/onlinemarketing/images/team/t4.webp",
+    cover: "./onlinemarketing/images/team/t4.webp",
     name: "Ph.D Brian Kent",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "/onlinemarketing/images/team/t5.webp",
+    cover: "./onlinemarketing/images/team/t5.webp",
     name: "Ph.D Adrian Molises",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "/onlinemarketing/images/team/t6.webp",
+    cover: "./onlinemarketing/images/team/t6.webp",
     name: "Ph.D Anthony Jenkins",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "/onlinemarketing/images/team/t7.webp",
+    cover: "./onlinemarketing/images/team/t7.webp",
     name: "Ph.D Anna Cullen",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
-    cover: "/onlinemarketing/images/team/t8.webp",
+    cover: "./onlinemarketing/images/team/t8.webp",
     name: "Ph.D Carl Shaw",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
@@ -353,7 +353,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "How to drive traffic to your social media with no effort",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../onlinemarketing/images/blog/b4.webp",
+    cover: "/onlinemarketing/images/blog/b4.webp",
   },
   {
     id: 5,
@@ -391,7 +391,7 @@ export const testimonal = [
   },
   {
     id: 3,
-    name: "SCOTT HUES",
+    name: "SCOTT HUGHES",
     post: "Dropshipping Expert",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
     cover: "/onlinemarketing/images/testo/t3.webp",
